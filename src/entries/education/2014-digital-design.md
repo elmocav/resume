@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
+title: Certification as trained office executive
+organization: WKO
 location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+start: 2021-08-18
+end: 2021-08-18
 ---

@@ -1,8 +1,8 @@
 ---
-title: Master, Webdevelopment
-organization: SAE Institute
-organizationUrl: https://www.sae.edu
+title: FotoK Diploma
+organization: fotok
+organizationUrl: https://www.fotok.at
 location: Vienna, AT
-start: 2014-01-30
-end: 2016-08-14
+start: 2008-10-01
+end: 2011-07-01
 ---

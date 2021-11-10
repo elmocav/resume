@@ -3,4 +3,6 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+Hi! I'm a copywriter who's currently transitioning into UX. Besides writing content I've worked in services and studied photography.
+
+I enjoy making people's lives easier and better by using words, graphics and code.

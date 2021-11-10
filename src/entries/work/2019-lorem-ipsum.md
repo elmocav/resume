@@ -1,10 +1,9 @@
 ---
-title: Junior Developer
-organization: Mozilla
-organizationUrl: https://www.mozilla.org
-location: Mountain View, CA
-start: 2019-11-30
-end: 2020-03-14
+title: Expert Agent
+organization: sServiceCenter
+organizationUrl: https://www.s-servicecenter.at/
+start: 2013-10-01
+end: 2019-12-31
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Sit amet consectetur adipiscing elit.
+I helped customers and the banks fraud department mitigate damages–and inconvenience–in event of credit card fraud and gave customer support for all online products.

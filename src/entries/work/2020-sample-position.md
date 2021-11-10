@@ -1,9 +1,9 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
-organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+title: Copywriter
+organization: Rabattcorner
+organizationUrl: https://www.rabattcorner.ch
+start: 2020-11-01
+end: 2021-05-01
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+I supported the editorial team of rabattcorner launch a new daily deal platform and was responsible for editorial content and partner management.

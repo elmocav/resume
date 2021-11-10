@@ -1,44 +1,40 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
+    "name": "Gerrit Cavigelli",
+    "occupation": "Copywriter",
     "location": "Vienna, AT",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/his",
+    "email": "gerritcavigelli@fastmail.com",
+    "telephone": "+43 678 1275376",
+    "website": "https://caviger.heroku.com",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Photoshop",
+        "Git",
+        "Figma",
+        "Visio"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "German",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Hebrew",
             "level": "basic"
         }
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Gerritcavigelli",
+            "url": "https://www.linkedin.com/in/gerritcavigelli"
         }
     ]
 }
